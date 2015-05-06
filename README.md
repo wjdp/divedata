@@ -1,4 +1,6 @@
-# divedata
+# DiveData
+
+![DiveData](https://raw.githubusercontent.com/wjdp/divedata/master/logo/logo.png)
 
 ## Aim
 
